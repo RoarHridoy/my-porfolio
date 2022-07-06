@@ -17,6 +17,7 @@ h1 {
 section {
 
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -41,5 +42,16 @@ section {
 .banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
 
+.heckathon {
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#over {
+
+    padding-right: 18%;
 }
